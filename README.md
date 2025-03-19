@@ -26,7 +26,7 @@ Na końcu pierwszego rozdziału należy przedstawić strukturę pracy, czyli kr�
 ### **Podsumowanie**
 Pierwszy rozdział powinien być napisany w sposób jasny i zwięzły. Jego głównym celem jest przedstawienie tematu pracy, celu oraz sposobu jego realizacji. Dobrze skonstruowany pierwszy rozdział pozwala czytelnikowi zrozumieć, czego może się spodziewać w dalszej części pracy oraz jaką wartość wnosi przeprowadzona analiza lub opracowanie techniczne.
 
-
+EN
 
 #**How to Write the First Chapter of an Engineering Thesis?**
 
