@@ -1,6 +1,6 @@
 *English version below*
 
-#**Jak napisać pierwszy rozdział pracy inżynierskiej?**
+# **Jak napisać pierwszy rozdział pracy inżynierskiej?**
 
 Pierwszy rozdział pracy inżynierskiej pełni kluczową rolę, ponieważ wprowadza czytelnika w tematykę pracy, określa jej cel oraz przedstawia jej strukturę. Jest to fundament, na którym opiera się cała dalsza część pracy.
 
@@ -28,7 +28,7 @@ Pierwszy rozdział powinien być napisany w sposób jasny i zwięzły. Jego gł�
 
 EN
 
-#**How to Write the First Chapter of an Engineering Thesis?**
+# **How to Write the First Chapter of an Engineering Thesis?**
 
 The first chapter of an engineering thesis plays a crucial role as it introduces the reader to the topic, defines the purpose of the study, and presents its structure. It serves as the foundation on which the rest of the thesis is built.
 
